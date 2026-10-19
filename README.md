@@ -6,7 +6,7 @@ IoT 실무에서 센서 데이터 수신 서버와 모니터링 플랫폼을 개
 ### Experience
 
 **인프라칩** · 연구개발팀 · 2026.01 ~ 2026.08<br>
-연구·공공기관용 IoT 모니터링 플랫폼 백엔드 개발·운영 (Node.js · MySQL · MQTT) · 🔒 Private company code
+연구·공공기관용 IoT 모니터링 플랫폼 백엔드 개발·운영 (Node.js · MySQL · MQTT) · Private company code
 
 ### Main Projects
 
