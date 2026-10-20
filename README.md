@@ -16,7 +16,7 @@ IoT 실무에서 센서 데이터 수신 서버와 모니터링 플랫폼을 개
 
 **[TeamMoa](https://github.com/TlesMes/TeamMoa-Refactor)** — 팀 협업 플랫폼 · Django
 - WebSocket 실시간 마인드맵, AWS ALB + Multi-AZ, GitHub Actions 무중단 배포
-- 부하 테스트로 병목 특정, 처리량 90.9 → 364.5 RPS (4.0배) · N+1 쿼리 81% 감소
+- 부하 테스트로 병목 특정, 처리량 90.9 → 364.5 RPS (4.0배) · N+1 쿼리 75~83% 감소
 
 ### Other Projects
 
